@@ -1,0 +1,35 @@
+@font-face{
+    font-family: 'bebasneue-bold';
+    src: url(fonts/ bebasneuebold-webfont.svg);
+    src: url(fonts/BebasNeueBold.ttf);
+    src: url(fonts/ bebasneuebold-webfont.eot);
+    src: url(fonts/ bebasneuebold-webfont.woff);
+    src: url(fonts/ bebasneuebold-webfont.woff2);   
+}
+
+
+
+@font-face{
+    font-family: 'MyriadPro-Regular';
+    src: url(fonts/MyriadPro/MyriadPro-Regular.otf);
+    src: url(fonts/MyriadPro/MyriadPro-Regular.eot);
+    src: url(fonts/MyriadPro/MyriadPro-Regular.woff);
+}
+
+@font-face{
+    font-family: 'MyriadPro-Cond';
+    src: url(fonts/MyriadPro/MyriadPro-Cond.otf);
+    src: url(fonts/MyriadPro/MyriadProCondRegular.ttf);
+    src: url(fonts/MyriadPro/MyriadProCondRegular.woff);
+}
+
+
+@font-face{
+    font-family: 'BlackGroteskC';
+    src: url(fonts/BlackGroteskC/blackgroteskc-webfont.svg);
+    src: url(fonts/BlackGroteskC/BlackGroteskC.otf);
+    src: url(fonts/BlackGroteskC/blackgroteskc-webfont.eot);
+    src: url(fonts/BlackGroteskC/blackgroteskc-webfont.woff);
+    src: url(fonts/BlackGroteskC/blackgroteskc-webfont.woff2);
+    
+}
